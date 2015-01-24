@@ -1,0 +1,8 @@
+target/
+.lib/
+.classpath
+.project
+config.properties
+.cache
+.DS_Store
+.kay
